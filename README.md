@@ -8,6 +8,7 @@
 <p>
     In addition to the technical aspects of the project, creating a fully functioning user experience would have also involved designing and implementing a user interface that was easy to navigate and provided all the necessary information to the player.
 </p>
+
 # Screenshots
 <div>
     <img src="Images/Screenshot1.png" style="width:49%;"></img>
